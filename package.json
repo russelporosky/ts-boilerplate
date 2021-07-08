@@ -19,7 +19,7 @@
     "boilerplate"
   ],
   "author": "Russel Porosky <russel@metaloha.com>",
-  "license": "GPL-3.0-or-later",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/metaloha/ts-boilerplate/issues"
   },
