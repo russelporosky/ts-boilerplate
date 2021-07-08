@@ -1,6 +1,6 @@
 {
   "name": "ts-boilerplate",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "TypeScript boilerplate for TDD development.",
   "scripts": {
     "build": "tsc --project src/tsconfig.app.json",
@@ -19,7 +19,7 @@
     "boilerplate"
   ],
   "author": "Russel Porosky <russel@metaloha.com>",
-  "license": "GPL-3.0-or-later",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/metaloha/ts-boilerplate/issues"
   },
