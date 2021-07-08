@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "TypeScript boilerplate for TDD development.",
   "scripts": {
+    "build": "tsc --project src/tsconfig.app.json",
     "lint": "eslint ./src",
     "test": "tsc --noEmit -p . && jest --no-cache"
   },
