@@ -4,8 +4,10 @@
   "description": "TypeScript boilerplate for TDD development.",
   "scripts": {
     "build": "tsc --project src/tsconfig.app.json",
+    "build:watch": "tsc --project src/tsconfig.app.json --watch",
     "lint": "eslint ./src",
-    "test": "tsc --noEmit -p . && jest --no-cache"
+    "test": "tsc --noEmit -p . && jest --no-cache",
+    "test:watch": "tsc --noEmit -p . && jest --no-cache --watch"
   },
   "repository": {
     "type": "git",
