@@ -5,10 +5,6 @@ Please note we have a [code of conduct](CODE_OF_CONDUCT.md), please follow it in
 
 ## Development environment setup
 
-> **[?]**
-> Proceed to describe how to setup local development environment.
-> e.g:
-
 To set up a development environment, please follow these steps:
 
 1. Clone the repo
@@ -31,8 +27,7 @@ To set up a development environment, please follow these steps:
 
 ## Issues and feature requests
 
-You've found a bug in the source code, a mistake in the documentation or maybe you'd like a new feature? You can help us by submitting an issue to our [GitHub Repository](https://github.com/metaloha/ts-boilerplate/issues). Before you create an issue, make sure you search the archive, maybe your question was already answered.
-Also please check out [GitHub discussions](https://github.com/metaloha/ts-boilerplate/discussions) before submitting an issue. 
+You've found a bug in the source code, a mistake in the documentation or maybe you'd like a new feature? You can help us by submitting an issue to our [GitHub Repository](https://github.com/metaloha/ts-boilerplate/issues). Before you create an issue, make sure you search the archive, maybe your question was already answered. Also, please check out [GitHub discussions](https://github.com/metaloha/ts-boilerplate/discussions) before submitting an issue. 
 
 Please try to create bug reports that are:
 
