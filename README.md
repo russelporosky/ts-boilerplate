@@ -19,7 +19,7 @@ Reach out to the maintainer at one of the following places:
 
 First off, thanks for taking the time to contribute! Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make will benefit everybody else and are **greatly appreciated**.
 
-We have set up a separate document containing our [contribution guidelines](docs/CONTRIBUTING.md).
+We have set up a separate document containing our [contribution guidelines](CONTRIBUTING.md).
 
 Thank you for being involved!
 
@@ -34,7 +34,7 @@ For a full list of all authors and contributors, check [the contributor's page](
 TS-Boilerplate follows good practices of security, but 100% security can't be granted in software.
 TS-Boilerplate is provided **"as is"** without any **warranty**. Use at your own risk.
 
-_For more info, please refer to the [security](docs/SECURITY.md)._
+_For more info, please refer to the [security](SECURITY.md)._
 
 ## License
 

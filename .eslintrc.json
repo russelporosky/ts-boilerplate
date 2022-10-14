@@ -3,7 +3,9 @@
   "ignorePatterns": [
     "**/*"
   ],
-  "plugins": [],
+  "plugins": [
+    "eslint-plugin-tsdoc"
+  ],
   "settings": {
     "import/resolver": {
       "typescript": {}
@@ -212,7 +214,8 @@
         "prefer-template": "error",
         "quotes": "off",
         "radix": "error",
-        "require-atomic-updates": "error"
+        "require-atomic-updates": "error",
+        "tsdoc/syntax": "warn"
       }
     }
   ]
