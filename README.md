@@ -1,12 +1,14 @@
 # TypeScript Boilerplate
 
-This is a lightweight TypeScript boilerplate that uses Jest for testing.
+[![Build Status](https://github.com/metaloha/ts-boilerplate/actions/workflows/ci.yml/badge.svg)](https://github.com/metaloha/ts-boilerplate/actions)
 
-Delete or rename the existing `src/HelloWorld.ts` and `src/HelloWorld.test.ts` files to reflect your preferred names.
+This is a lightweight TypeScript boilerplate that uses `jest` for testing, `prettier` for formatting, and `typedoc` for document generation.
 
-`npm run lint` will compare your code against the linter settings. This repository is set to use `tabs` for indentation, no semi-colons, and single quotes.
+Delete or rename the existing `src/HelloWorld.ts` and `src/HelloWorld.spec.ts` files to reflect your preferred names.
 
-`npm run test` will run your tests.
+`npm run lint` will compare your code against the linter settings. This repository is set to use `tabs` for indentation and single quotes for strings.
+
+`npm run test` will run your tests. For a coverage report, use `npm run test:coverage`. And to have tests watch for changes and automatically re-run, use `npm run test:watch`.
 
 ## Support
 
