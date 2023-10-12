@@ -4,7 +4,7 @@
 
 If there are any vulnerabilities in the **TS-Boilerplate** project, don't hesitate to _report them_.
 
-1. Use any of the [private contact addresses](https://github.com/metaloha/ts-boilerplate#support).
+1. Use any of the [private contact addresses](https://github.com/russelporosky/ts-boilerplate#support).
 2. Describe the vulnerability.
 
 - If you have a fix, explain or attach it.
