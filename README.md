@@ -1,6 +1,6 @@
 # TypeScript Boilerplate
 
-[![Build Status](https://github.com/metaloha/ts-boilerplate/actions/workflows/ci.yml/badge.svg)](https://github.com/metaloha/ts-boilerplate/actions)
+[![Build Status](https://github.com/russelporosky/ts-boilerplate/actions/workflows/ci.yml/badge.svg)](https://github.com/russelporosky/ts-boilerplate/actions)
 
 This is a lightweight TypeScript boilerplate that uses `jest` for testing, `prettier` for formatting, and `typedoc` for document generation.
 
@@ -14,8 +14,8 @@ Delete or rename the existing `src/HelloWorld.ts` and `src/HelloWorld.spec.ts` f
 
 Reach out to the maintainer at one of the following places:
 
-- [GitHub discussions](https://github.com/metaloha/ts-boilerplate/discussions)
-- The email which is located [in my GitHub profile](https://github.com/metaloha)
+- [GitHub discussions](https://github.com/russelporosky/ts-boilerplate/discussions)
+- The email which is located [in my GitHub profile](https://github.com/russelporosky)
 
 ## Contributing
 
@@ -27,9 +27,9 @@ Thank you for being involved!
 
 ## Authors & contributors
 
-The original setup of this repository is by [Russel Porosky](https://github.com/metaloha).
+The original setup of this repository is by [Russel Porosky](https://github.com/russelporosky).
 
-For a full list of all authors and contributors, check [the contributor's page](https://github.com/metaloha/ts-boilerplate/contributors).
+For a full list of all authors and contributors, check [the contributor's page](https://github.com/russelporosky/ts-boilerplate/contributors).
 
 ## Security
 
