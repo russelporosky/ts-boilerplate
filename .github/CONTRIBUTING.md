@@ -16,7 +16,7 @@ To set up a development environment, please follow these steps:
 2. Install dependencies
 
    ```shell
-   npm install 
+   npm ci 
    ```
 
 3. Run tests

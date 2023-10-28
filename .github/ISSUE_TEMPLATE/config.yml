@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+    - name: GitHub discussions
+      url: https://github.com/russelporosky/ts-boilerplate/discussions
+      about: Please ask and answer questions here.
+    - name: Vulnerability advisory
+      url: https://github.com/russelporosky/ts-boilerplate/security/advisories
+      about: Please privately inform me of security issues here.
