@@ -1,9 +1,6 @@
 # TypeScript Boilerplate
 
-[![GitHub Release](https://img.shields.io/github/release/russelporosky/ts-boilerplate.svg?style=flat)]()
 [![Build Status](https://github.com/russelporosky/ts-boilerplate/actions/workflows/ci.yml/badge.svg)](https://github.com/russelporosky/ts-boilerplate/actions)
-[![Issues](https://img.shields.io/github/issues-raw/russelporosky/ts-boilerplate.svg?maxAge=25000)](https://github.com/russelporosky/ts-boilerplate/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/russelporosky/ts-boilerplate.svg?style=flat)]()
 
 This is a lightweight TypeScript boilerplate that uses `jest` for testing, `prettier` for formatting, and `typedoc` for document generation.
 
@@ -18,13 +15,13 @@ Delete or rename the existing `src/HelloWorld.ts` and `src/HelloWorld.spec.ts` f
 Reach out to the maintainer at one of the following places:
 
 - [GitHub discussions](https://github.com/russelporosky/ts-boilerplate/discussions)
-- [Private vulnerability disclosure](https://github.com/russelporosky/ts-boilerplate/security/advisories)
+- The email which is located [in my GitHub profile](https://github.com/russelporosky)
 
 ## Contributing
 
 First off, thanks for taking the time to contribute! Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make will benefit everybody else and are **greatly appreciated**.
 
-We have set up a separate document containing our [contribution guidelines](.github/CONTRIBUTING.md).
+We have set up a separate document containing our [contribution guidelines](CONTRIBUTING.md).
 
 Thank you for being involved!
 
@@ -39,7 +36,7 @@ For a full list of all authors and contributors, check [the contributor's page](
 TS-Boilerplate follows good practices of security, but 100% security can't be granted in software.
 TS-Boilerplate is provided **"as is"** without any **warranty**. Use at your own risk.
 
-_For more info, please refer to the [security](.github/SECURITY.md)._
+_For more info, please refer to the [security](SECURITY.md)._
 
 ## License
 
